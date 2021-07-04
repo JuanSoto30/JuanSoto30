@@ -1,0 +1,3 @@
+-👋 Hola mi nombre es Juan Soto y soy de Mexico
+-Por el momento estoy interesado en poder desarrollar mis practicas profesionales 
+-Cuento con experiencia en HTML, CSS y Javascript tambien e participado en algunos proyectos escolares con JAVA, C# y Phyton
